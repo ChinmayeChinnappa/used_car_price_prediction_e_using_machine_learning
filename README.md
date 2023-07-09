@@ -1,4 +1,4 @@
-# used_car_price_prediction_using_machine_learning
+# Used Cars Price Prediction Using Machine Learning
 
 * Worked with "uncovering-factors-that-affect-used-car-prices" dataset from Kaggle containing 371k rows across 21 categories.
 * Created and trained a Machine model using the Ridge Regression, Random Forest and Gradient Boosting.
